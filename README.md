@@ -1,3 +1,8 @@
+# Extending the tutorial
+
+I made some changes to the tutorial. It now has additional fields.
+- Shaun
+
 # React Tutorial
 
 Learn the fundamentals of React including simple and class components, state, props, and submitting form data.
@@ -12,6 +17,7 @@ Learn the fundamentals of React including simple and class components, state, pr
 ## Author
 
 - [Tania Rascia](https://www.taniarascia.com)
+- Modified April 2022 - [Shaun Paul Singh](http://hellorobotron.com)
 
 ## License
 
