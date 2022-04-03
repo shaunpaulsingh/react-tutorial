@@ -1,7 +1,8 @@
 # Extending the tutorial
 
 I made some changes to the tutorial. It now has additional fields.
-- Shaun
+Added a counter component. Did a little searching to see how to force an update from props.
+Shaun
 
 # React Tutorial
 
