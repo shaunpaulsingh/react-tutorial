@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Counter from './Counter'
+
 const TableHeader = () => { 
     return (
         <thead>
@@ -32,6 +34,7 @@ const Table = (props) => {
     const { characterData, removeCharacter } = props;
         return (
             <table>
+                <Counter dataParentToChild={characterData.length}/>
                 <TableHeader />
                 <TableBody characterData={characterData} removeCharacter={removeCharacter} />
             </table>
